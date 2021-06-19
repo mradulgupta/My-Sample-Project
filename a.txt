@@ -1,1 +1,3 @@
 first program updated again
+
+resolved a bug
