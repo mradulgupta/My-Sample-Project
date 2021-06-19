@@ -1,0 +1,41 @@
+GIT
+
+Git is a version control system
+
+
+2 Steps
+
+1-step --- setting up the git for the first time
+
+a. create a account on github
+b. download git from https://desktop.github.com/
+c. sigin with github on the git desktop software.
+d. 
+
+2-step --- how to use it.
+
+
+key terms
+-----------------
+
+repository - a folder that can be manage by git
+local repository - repository on the machine
+remote repository - repository on git
+
+usecase 1 - entire new project from my machine to github
+usecase 2 - taking the project from git to your local machine
+
+commit - files that can be tracked and pushed to git server
+
+push - uploading the locally changed files tp server.
+
+revert - undo the changes to a specific location.
+
+brach - its just a copy of our code -- genrally the first code we commit is inside main/master branch
+
+merge request/ pull request - merging a branch to our main branch
+
+fetch - syncing local brach with remote branch
+
+pull - if we want the latest changes to be part of our local brach than we take the pull
+
